@@ -1,0 +1,7 @@
+libraries used : 
+1. tailwind css - for styling
+2. react-code-mirror - for code editor 
+3. material-symbols - icons 
+4. Google fonts - fonts
+5. react-toastify - toast messgae
+6. papaparse - for reading csv files
