@@ -13,6 +13,10 @@ The queries are pre-defined and the dataset is taken from [this](https://github.
 6. React-toastify - toast messgae
 7. Papaparse - for reading csv files
 
+# Performance (desktop, may vary for different devices)
+<img width="475" alt="image" src="https://github.com/deeproop/Atlan/assets/83328209/071c2e59-2bb6-423a-84fe-f0195c72bb39">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
