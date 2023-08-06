@@ -1,3 +1,18 @@
+# SQL Compiler
+This is a web application, where you can compile your SQL queries, and the result is displayed. Type your query in the code editor window and press the run button for execution or simply select the available queries from the right side.
+The queries are pre-defined and the dataset is taken from [this](https://github.com/graphql-compose/graphql-compose-examples/tree/master/examples/northwind/data/csv) repository.
+|<img width="957" alt="image" src="https://github.com/deeproop/Atlan/assets/83328209/c070bd6d-8b7c-488e-be16-b06541cfe0fe">|
+|-|
+
+# Libraries used :
+1. React.js - state management
+2. Tailwind css - for styling
+3. React-code-mirror - for code editor 
+4. Material-symbols - icons 
+5. Google fonts - fonts
+6. React-toastify - toast messgae
+7. Papaparse - for reading csv files
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
