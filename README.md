@@ -1,5 +1,6 @@
 # SQL Compiler
-This is a web application, where you can compile your SQL queries, and the result is displayed. Type your query in the code editor window and press the run button for execution or simply select the available queries from the right side.
+This is a web-based application where you can compile your SQL queries and have the results displayed.
+Type your query in the code editor window and press the run button for execution, or simply select the available queries from the right side.
 The queries are pre-defined and the dataset is taken from [this](https://github.com/graphql-compose/graphql-compose-examples/tree/master/examples/northwind/data/csv) repository.
 |<img width="957" alt="image" src="https://github.com/deeproop/Atlan/assets/83328209/c070bd6d-8b7c-488e-be16-b06541cfe0fe">|
 |-|
